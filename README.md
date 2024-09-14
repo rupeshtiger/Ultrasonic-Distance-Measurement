@@ -1,5 +1,5 @@
-## Ultrasonic Distance Measurement Project Outline
-## 1. Title:- Ultrasonic Distance Measurement Using HC-SR04 Sensor
+## Ultrasonic Distance Measurement Major-Project(college)
+## 1. Title: Ultrasonic Distance Measurement Using HC-SR04 Sensor
 ## 2. Objective
 The aim of this project is to design and implement a system that measures the distance between the sensor and an object using an ultrasonic sensor (HC-SR04) and displays the results on a serial monitor and optionally an LCD screen.
 # 3. Introduction
